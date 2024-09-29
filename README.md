@@ -30,7 +30,7 @@ ________________________________________
 •	npm (v6 or higher)
 Steps to Install and Run the Application
 1.	Clone the Repository: Clone the GitHub repository to your local machine:
-git clone https://github.com/yourusername/localvibe-lite.git
+git clone https://github.com/ragulkumar-v/Eventi-Scout/
 2.	Navigate to the Project Directory:
 cd localvibe-lite
 3.	Install Dependencies: Use npm to install the project dependencies:
