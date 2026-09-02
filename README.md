@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ________________________________________
 ## *Contact*
 For more information or queries about this project, feel free to contact:
-•	Your Name: Ragul Kumar Venkateswaran
+•	Name: Ragul Kumar Venkateswaran
 •	Email: ragulkumar2611@gmail.com
 ## **Contributors: **
 Raja S
